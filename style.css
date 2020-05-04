@@ -1,1 +1,56 @@
 
+body{
+    line-height: 0;
+    padding-left: 300px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#canvas{
+    display: inline;
+    /* border: 1px solid red; */
+}
+#canvas2{
+    display: inline;
+    /* border: 1px solid red; */
+    vertical-align: top;
+
+}
+#canvas3{
+    display: inline;
+    /* border: 1px solid red; */
+}
+
+.content1{
+    width: 970px;
+    height: 1000px;
+    padding-left: 20px;
+    vertical-align: top;
+    /* border: 1px solid blue; */
+    display: inline-block;
+}
+
+#secondDiv{
+    padding-left: 50px;
+}
+
+header{
+    height: 20%;
+    background-color: black;
+    text-align: center;
+    vertical-align: top;
+}
+
+h1{
+    color: white;
+    padding-top: 2.9em;
+}
+
+p{
+    -webkit-font-smoothing: antialiased;
+color: #000;
+font: large/2.1 "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+word-spacing: 0.1em;
+font-size: large;
+margin: 1.556em 0;
+}
